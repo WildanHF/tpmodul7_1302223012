@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2+qLs6zFXtOB0IIQzRKtGfMctMqqE+9OKeo7otI3JQja4mSj9aDpRH/h33WWGzl7R1vKgQ+7hhPQuzM0kfZNMw==",
+  "success": true,
+  "projectFilePath": "D:\\SEMESTER 4\\PRAK KPL\\TPMOD6\\MOD7\\MOD7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wildan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.2\\microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
+    "C:\\Users\\Wildan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\Wildan\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
