@@ -1,10 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\SEMESTER 4\\PRAK KPL\\TPMOD6\\MOD7\\",
+  "WorkspaceRootPath": "D:\\SEMESTER 4\\PRAK KPL\\TPMOD7\\MOD7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D7BE1A2-6F34-44CC-AFC8-850E6E7435BB}|MOD7.csproj|d:\\semester 4\\prak kpl\\tpmod6\\mod7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D7BE1A2-6F34-44CC-AFC8-850E6E7435BB}|MOD7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SEMESTER 4\\PRAK KPL\\TPMOD7\\MOD7\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Wildan\\Downloads\\tp7_1_nim.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,14 +23,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\SEMESTER 4\\PRAK KPL\\TPMOD6\\MOD7\\Program.cs",
+              "DocumentMoniker": "D:\\SEMESTER 4\\PRAK KPL\\TPMOD7\\MOD7\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\SEMESTER 4\\PRAK KPL\\TPMOD6\\MOD7\\Program.cs",
+              "ToolTip": "D:\\SEMESTER 4\\PRAK KPL\\TPMOD7\\MOD7\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T21:27:53.821Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tp7_1_nim.json",
+              "DocumentMoniker": "C:\\Users\\Wildan\\Downloads\\tp7_1_nim.json",
+              "ToolTip": "C:\\Users\\Wildan\\Downloads\\tp7_1_nim.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-31T22:14:37.376Z"
             },
             {
               "$type": "Bookmark",

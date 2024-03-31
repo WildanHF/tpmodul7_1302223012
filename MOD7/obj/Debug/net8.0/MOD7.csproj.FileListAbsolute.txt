@@ -1,0 +1,5 @@
+D:\SEMESTER 4\PRAK KPL\TPMOD7\MOD7\obj\Debug\net8.0\MOD7.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 4\PRAK KPL\TPMOD7\MOD7\obj\Debug\net8.0\MOD7.AssemblyInfoInputs.cache
+D:\SEMESTER 4\PRAK KPL\TPMOD7\MOD7\obj\Debug\net8.0\MOD7.AssemblyInfo.cs
+D:\SEMESTER 4\PRAK KPL\TPMOD7\MOD7\obj\Debug\net8.0\MOD7.csproj.CoreCompileInputs.cache
+D:\SEMESTER 4\PRAK KPL\TPMOD7\MOD7\obj\Debug\net8.0\MOD7.sourcelink.json
